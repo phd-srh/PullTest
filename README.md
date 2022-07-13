@@ -5,4 +5,8 @@ Falls das "Clone" mit der IDE nicht funktioniert, wegen der ITS Problematik der 
 
     git config --global http.sslverify false
 
+Bei einen Update-Fehler:
+
+    git config --global --add safe.directory <LOKALER_REPPFAD>
+
 Viel Spaß!
