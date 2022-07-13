@@ -10,3 +10,4 @@ Bei einen Update-Fehler:
     git config --global --add safe.directory <LOKALER_REPPFAD>
 
 Viel Spaß!
+  Nach Annahme der Einladung geht`s
